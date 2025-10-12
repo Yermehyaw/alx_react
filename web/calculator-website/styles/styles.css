@@ -61,3 +61,6 @@ button {
     margin: 0 auto;
 }
 
+button:hover {
+    color: #00539f;
+}
