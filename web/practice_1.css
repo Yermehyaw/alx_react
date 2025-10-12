@@ -1,0 +1,16 @@
+/* HTML5 Info */
+
+h1
+{
+    background: grey;
+    width: auto;
+    
+}
+
+footer
+{
+    background: blue;
+    justify-text: centre;
+    width: centre;
+    font: TimesNewRomans;
+}
