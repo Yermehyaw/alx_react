@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "react": "latest",
+        "react-native": "latest"
+    },
+    "devDependencies": {
+        "@types/react": "^19.2.9",
+        "eslint": "^8.0.0"
+    }
+}
